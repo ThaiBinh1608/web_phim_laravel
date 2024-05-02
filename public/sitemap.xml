@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/vendor/sitemap/styles/xml.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+	<loc>http://127.0.0.1:8000</loc>
+		<priority>1.0</priority>
+		<lastmod>2024-03-26T12:25:55+00:00</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+	<loc>http://127.0.0.1:8000the-loai/tam-ly</loc>
+		<priority>0.7</priority>
+		<lastmod>2024-03-26T12:25:55+00:00</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+	<loc>http://127.0.0.1:8000the-loai/kinh-di</loc>
+		<priority>0.7</priority>
+		<lastmod>2024-03-26T12:25:55+00:00</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+	<loc>http://127.0.0.1:8000the-loai/hai-kich</loc>
+		<priority>0.7</priority>
+		<lastmod>2024-03-26T12:25:55+00:00</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+	<loc>http://127.0.0.1:8000the-loai/hai-kich</loc>
+		<priority>0.7</priority>
+		<lastmod>2024-03-26T12:25:55+00:00</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+	<loc>http://127.0.0.1:8000the-loai/hanh-dong</loc>
+		<priority>0.7</priority>
+		<lastmod>2024-03-26T12:25:55+00:00</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+</urlset>
+
